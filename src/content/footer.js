@@ -20,7 +20,7 @@ module.exports = {
         },
     ],
     social: {
-        facebook: { link: 'https://www.facebook.com/pythonbrasil/', logo: '/images/facebook.svg' },
+        facebook: { link: 'https://facebook.com/pythonbrasil/', logo: '/images/facebook.svg' },
         twitter: { link: 'https://twitter.com/pythonbrasil', logo: '/images/twitter.svg' },
         instagram: { link: 'https://www.instagram.com/pythonbrasil/', logo: '/images/instagram.svg' },
         apybr: { link: 'https://python.org.br/', logo: '/images/pylogo.svg' }
